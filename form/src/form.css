@@ -1,0 +1,4 @@
+.checkbox:checked {
+ background-color: blue;
+    color: blue; /* Change color to blue when checked */
+}
